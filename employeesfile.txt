@@ -1,0 +1,2 @@
+Employee [name=John, empID=1, CNIC=4444433331115, designation=Teacher, department=CS]
+Employee [name=Jack, empID=2, CNIC=3333322220005, designation=Teacher, department=CS]
